@@ -1,9 +1,5 @@
 ### Olá, eu sou o JANDSON 😊
 
-
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Front-end entrey-level
-- 😄 Pronouns: Ele/Dele
 <div align="center">
   <a href="https://github.com/jandsonrj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jandsonrj&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
