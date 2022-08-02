@@ -1,4 +1,4 @@
-### Olá, eu sou o JANDSON 😊
+###
 
 <div align="center">
   <a href="https://github.com/jandsonrj">
