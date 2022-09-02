@@ -1,6 +1,6 @@
-### Hi, I'm JADSON, a young technology fanatic, working my way up to one day becoming a FULL-STACK developer. Welcome to my github prof!
+### <h2>Hi, I'm JADSON, a young technology fanatic, working my way up to one day becoming a FULL-STACK developer. Welcome to my github prof!</h2>
 
-#ENJOY
+<b>#ENJOY</b>
 
 <div align="center">
   <a href="https://github.com/jandsonrj">
