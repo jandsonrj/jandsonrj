@@ -1,6 +1,6 @@
 <h1><b>Hi, I'm JADSON</h1>  
 
-<h3>young technology fanatic, working my way up to one day becoming a FULL-STACK developer. Welcome to my github prof!</b></h3>
+<p>young technology fanatic, working my way up to one day becoming a FULL-STACK developer. Welcome to my github prof!</b></p>
 
 <i><b>#ENJOY</b></i>
 <!-- se você está vendo isso, parabéns... Agora, me faça um desafio :) -->
