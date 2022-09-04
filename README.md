@@ -1,4 +1,4 @@
-### <h1><b>Hi, I'm JADSON</h1>  
+<h1><b>Hi, I'm JADSON</h1>  
 
 <h3>young technology fanatic, working my way up to one day becoming a FULL-STACK developer. Welcome to my github prof!</b></h3>
 
