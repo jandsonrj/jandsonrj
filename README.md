@@ -1,9 +1,8 @@
-<h1><b>Hi, I'm JANDSON</h1>  
+<h1><b>Hello there, I'm <span style="color:#FF0000;">Jandson</span> :)</b></h1>  
 
-<p>young technology fanatic, working my way up to one day becoming a Frontend developer. Welcome to my github prof!</b></p>
+<p><b>Welcome to my GitHub profile! Here, you can explore my projects and witness how I'm making strides in the tech world as a Frontend Developer Junior. Feel free to connect and collaborate with me, as I'm eager to join forces and craft some remarkable web experiences together!</b></p>
 
-<i><b>#ENJOY</b></i>
-<!-- se você está vendo isso, parabéns... Agora, me faça um desafio :) -->
+<!-- if you're seeing this, congratulations... Now, give me a challenge :) -->
 <div align="center">
   <a href="https://github.com/jandsonrj">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jandsonrj&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
