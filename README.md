@@ -2,7 +2,7 @@
 
 <p><b>Welcome to my GitHub profile! Here, you can explore my projects and witness how I'm making strides in the tech world as a Frontend Developer Junior. Feel free to connect and collaborate with me, as I'm eager to join forces and craft some remarkable web experiences together!</b></p>
 
-<!-- if you're seeing this, congratulations... Now, give me a challenge :) -->
+<!-- If you're seeing this, congratulations... Now, Can you provide me with a challenge? :) -->
 <div align="center">
   <a href="https://github.com/jandsonrj">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jandsonrj&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
