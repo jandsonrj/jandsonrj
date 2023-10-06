@@ -1,7 +1,7 @@
 <!--Jandev readme-->
 <!--Jandev readme-->
 <!--Jandev readme-->
-<h1><b>Hello there, I'm <span style="color:#FF0000;">Jandson</span> :)</b></h1>  
+<h1><b>Hello there, I'm <span>Jandson</span> :)</b></h1>  
 
 <p><b>Welcome to my GitHub profile! Here, you can explore my projects and witness how I'm making strides in the tech world as a Frontend Developer Junior. Feel free to connect and collaborate with me, as I'm eager to join forces and craft some remarkable web experiences together!</b></p>
 
