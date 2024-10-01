@@ -3,7 +3,7 @@
 <!--Jandev readme-->
 <h1><b>Hello there, I'm <span>Jandson</span> :)</b></h1>  
 
-<p><b>Welcome to my GitHub profile! Here, you can explore my projects and witness how I'm making strides in the tech world as a Frontend Developer. Feel free to connect and collaborate with me, as I'm eager to join forces and craft some remarkable web experiences together!</b></p>
+<p><b>Welcome to my Github profile! Here, you can explore my projects and witness how I'm making strides in the tech world as a Frontend Developer. Feel free to connect and collaborate with me, as I'm eager to join forces and craft some remarkable web experiences together!</b></p>
 
 <!-- If you're seeing this, congratulations... Now, Can you provide me with a challenge? :) -->
 <!--"Any application that can be written in JavaScript, will eventually be written in JavaScript." – Jeff Atwood, Author, Entrepreneur, and Cofounder of StackOverflow.-->
@@ -42,6 +42,8 @@
 </div>
 
 
+<!--just a kind--> 
+<!--just a kind--> 
 <!--just a kind--> 
 <!--just a kind--> 
 <!--just a kind--> 
