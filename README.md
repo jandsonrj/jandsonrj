@@ -1,28 +1,31 @@
-<!--Jandev readme-->
-<!--Jandev readme-->
-<!--Jandev readme-->
-<h1><b>Hello there, I'm <span>Jandson</span> :)</b></h1>  
+# Hi, I’m Jandson Vitorino (JANDev) 👋
 
-<p><b>Welcome to my Github profile! Here, you can explore my projects and witness how I'm making strides in the tech world as a Frontend Developer. Feel free to connect and collaborate with me, as I'm eager to join forces and craft some remarkable web experiences together!</b></p>
+**Mid-level Software Engineer** blending **Frontend (React/Next.js/MUI)** with **Applied AI** to ship real solutions end-to-end.
 
-<!-- If you're seeing this, congratulations... Now, Can you provide me with a challenge? :) -->
-<!--"Any application that can be written in JavaScript, will eventually be written in JavaScript." – Jeff Atwood, Author, Entrepreneur, and Cofounder of StackOverflow.-->
-<div align="center">
-  <a href="https://github.com/jandsonrj">
+- 🧠 **AI**: Gemini/GPT on **Vertex AI**, **LangChain**, RAG; prompt design & quality evaluation.  
+- 🧩 **E2E**: from data/APIs to UI; **Docker/WSL**, **GCP** (Cloud Run, Compute Engine).  
+- 🔤 **NLP**: classification, sentiment, Q&A, summarization, semantic similarity.  
+- 🛠️ **Tools**: React, TypeScript, Node.js/Python, PostgreSQL, Hugging Face, spaCy, NLTK.  
+- 🎓 Degree in Systems Analysis & Development + post-grads in Software Eng. and Data Eng.  
+- 🤝 Git/GitHub (branches, PRs, code review), CI/CD, clear docs.  
+- 🎯 Next: strengthen **AI/RAG in production** and grow into **Senior**.
+
+### 🧰 Stack snapshot
+React • Next.js • TypeScript • Node.js • Python • LangChain • Vertex AI (Gemini) • GCP (Cloud Run/VM) • Docker • PostgreSQL • Hugging Face • spaCy • NLTK
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jandsonrj&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandsonrj&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jandev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jandev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jandev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jandev-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jandev-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Jandev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-  ##
-  
+---
+
+## 🌐 Social
+
 <div>
   <a href="https://www.linkedin.com/in/jandsonrj/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -41,9 +44,17 @@
   </a>
 </div>
 
+---
 
-<!--just a kind--> 
-<!--just a kind--> 
-<!--just a kind--> 
-<!--just a kind--> 
-<!--just a kind--> 
+<details>
+<summary><b>PT-BR</b></summary>
+
+Curioso por tecnologia desde cedo, encontrei no desenvolvimento de software uma forma de transformar ideias em produtos. Hoje atuo como **Engenheiro de Software Pleno**, unindo **Frontend (React/Next.js/MUI)** e **IA aplicada** para resolver problemas reais.
+
+- 🧠 **IA**: Gemini/GPT no **Vertex AI**, **LangChain**, RAG; engenharia de prompts e avaliação de qualidade.  
+- 🧩 **E2E**: de dados/APIs ao front; **Docker/WSL**, **GCP** (Cloud Run, VMs).  
+- 🔤 **NLP**: classificação, sentimento, Q&A, sumarização e similaridade semântica (Transformers, Hugging Face, spaCy, NLTK).  
+- 🎓 ADS + pós em Eng. de Software e Eng. de Dados; colaboração diária com Git/GitHub, CI/CD e documentação clara.  
+- 🎯 Próximos passos: consolidar **RAG em produção** e evoluir para **Sênior**.
+
+</details>
