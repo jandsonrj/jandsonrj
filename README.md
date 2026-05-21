@@ -23,8 +23,8 @@ React • Next.js • TypeScript • Node.js • Python • LangChain • Vertex
 </p>
 
 <p align="center">
-  <img width="48%" src="https://jandev-stats.vercel.app/api/streak?username=jandsonrj&theme=vision-friendly-dark&card_width=454&height=282&v=3"/>
-  <img width="48%" src="https://jandev-stats.vercel.app/api/trophies?username=jandsonrj&theme=vision-friendly-dark&column=4&v=2"/>
+  <img width="48%" src="https://jandev-stats.vercel.app/api/streak?username=jandsonrj&theme=vision-friendly-dark&card_width=454&height=282&v=4"/>
+  <img width="48%" src="https://jandev-stats.vercel.app/api/trophies?username=jandsonrj&theme=vision-friendly-dark&column=4&v=3"/>
 </p>
 
 ---
