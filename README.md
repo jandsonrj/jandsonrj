@@ -17,9 +17,20 @@ React • Next.js • TypeScript • Node.js • Python • LangChain • Vertex
 
 ## 📈 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img height="195em" src="https://jandev-stats.vercel.app/api/stats?username=jandsonrj&theme=vision-friendly-dark"/>
-  <img height="195em" src="https://jandev-stats.vercel.app/api/top-langs?username=jandsonrj&theme=vision-friendly-dark&langs_count=7"/>
+</p>
+
+<p align="center">
+  <img height="195em" src="https://jandev-stats.vercel.app/api/top-langs?username=jandsonrj&theme=vision-friendly-dark&langs_count=8&card_width=495"/>
+</p>
+
+<p align="center">
+  <img height="195em" src="https://jandev-stats.vercel.app/api/streak?username=jandsonrj&theme=vision-friendly-dark"/>
+</p>
+
+<p align="center">
+  <img src="https://jandev-stats.vercel.app/api/trophies?username=jandsonrj&theme=vision-friendly-dark&column=4"/>
 </p>
 
 ---
